@@ -18,6 +18,8 @@ How to Run:
 2. Starting lite server : in project root
 - npm start
 
+### Introduction
+
 The Open Complaint Network is a decentralized system for lodging complaints, both civil and criminal onto a network that uses block chain, engaging citizens and police personnel. 
 
 In case of a compaint, the citizen ought to register the complaint online that will reach all police accounts and the citizen shall not have to worry about jurisdictional issues, and neither will the policemen. The network will also help solve problems that transcend jurisdictional territories faster and with easy communication. The network is devised such that the citizens hold accounts through which they can file complaints, each police station has an account across the country and the administrator holds access and control. 
