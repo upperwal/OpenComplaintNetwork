@@ -8,9 +8,13 @@ Platform used:
 2. Truffle for development
 
 How to Run:
+1. Starting Truffle Develop 
 - cd src/truffle-contract
 - truffle develop
-- cd ../
+- compile
+- migrate
+
+2. Starting lite server : in project root
 - npm start
 
 The Open Complaint Network is a decentralized system for lodging complaints, both civil and criminal onto a network that uses block chain, engaging citizens and police personnel. In case of a compaint, the citizen ought to register the complaint online that will reach all police accounts and the citizen shall not have to worry about jurisdictional issues, and neither will the policemen. The network will also help solve problems that transcend jurisdictional territories faster and with easy communication. The network is devised such that the citizens hold accounts through which they can file complaints, each police station has an account across the county and the administrator holds access and control. The network kallows for all complaints to be lodged, major or minor. A complaint automatically generates a registration, which the citizen can track over time and check the progress. 
