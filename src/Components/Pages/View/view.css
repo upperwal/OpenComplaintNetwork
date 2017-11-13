@@ -1,0 +1,78 @@
+.view-class {
+	text-align: left;
+	width: 80%;
+	margin: auto;
+	margin-top: 40px;
+}
+
+.label {
+	cursor: pointer;
+	margin-bottom: 5px;
+}
+
+h5 {
+	display: inline;
+	margin-left: 6px;
+	margin-right: 20px;
+}
+
+.notify {
+	position: fixed;
+	bottom: 10px;
+	left: 10px;
+}
+
+.police-accounts {
+	margin-top: 30px;
+}
+h3 {
+	margin: 20px 0px;
+}
+.police-accounts input {
+	margin: 20px 0px;
+}
+.police-accounts button {
+	background-color: #f7f7f7;
+	margin-bottom: 20px;
+}
+.police-accounts .label {
+	font-size: 0.6em;
+}
+.label {
+	margin: 0px 2px;
+}
+.invisible {
+	display: none;
+}
+.visible {
+	display: block-inherit;
+}
+.Accepted {
+	text-align: center;
+	border-radius: 6px;
+	padding: 3px;
+	color: #fff;
+	background-color: #3337f7;
+}
+.Resolved {
+	text-align: center;
+	border-radius: 6px;
+	padding: 3px;
+	color: #fff;
+	background-color: #139019;
+}
+.Pending {
+	text-align: center;
+	border-radius: 6px;
+	padding: 3px;
+	color: #fff;
+	background-color: #a91343;
+}
+
+.Proposed {
+	text-align: center;
+	border-radius: 6px;
+	padding: 3px;
+	color: #fff;
+	background-color: #cf2f10;
+}

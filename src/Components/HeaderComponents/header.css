@@ -1,0 +1,51 @@
+.App {
+  
+}
+
+.App-header {
+  background-color: #2b2b2b;
+  color: white;
+  padding: 6px 40px;
+  width: 100%;
+}
+
+.small-header {
+  width: 90%;
+  margin: auto;
+}
+
+.small-header > h1 {
+  display: inline;
+  margin-left: 30px;
+}
+
+.small-header > .links {
+  margin-left: 90px;
+  display: inline-block;
+}
+
+.small-header > .links > a {
+  color: white;
+  background-color: #444;
+  padding: 20px 80px;
+  margin: 0px 10px;
+  border-radius: 8px;
+  font-size: 1.3em;
+}
+
+.small-header > .links > a:hover {
+  background-color: #333;
+}
+
+.App-title {
+  font-size: 2.3em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}

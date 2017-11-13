@@ -1,0 +1,15 @@
+#register-class {
+	width: 70%;
+	margin: auto;
+	margin-top: 40px;
+}
+
+.notify {
+	position: fixed;
+	bottom: 10px;
+	left: 10px;
+}
+
+#complain-submit {
+	background-color: #f7f7f7;
+}
