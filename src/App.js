@@ -20,7 +20,7 @@ import ContractsABIJSON from './truffle-contract/build/contracts/OpenComplainNet
 console.log(ContractsABIJSON)
 
 window.abi = ContractsABIJSON.abi
-window.add = ContractsABIJSON.networks['4447'].address
+window.add = ContractsABIJSON.networks['5777'].address
 
 class App extends Component {
 
